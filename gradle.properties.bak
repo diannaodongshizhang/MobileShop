@@ -1,0 +1,4 @@
+systemProp.https.proxyPort=80
+systemProp.http.proxyHost= maven.aliyun.com
+systemProp.https.proxyHost= maven.aliyun.com
+systemProp.http.proxyPort=80
